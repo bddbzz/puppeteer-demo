@@ -16,5 +16,5 @@
 
 ## 参考资料
 
-![https://www.cnblogs.com/baihuitestsoftware/p/10521179.html]()
-![https://juejin.cn/post/6844903504276881422]()
+[常用 API](https://www.cnblogs.com/baihuitestsoftware/p/10521179.html)
+[无头浏览器 Puppeteer 初探](https://juejin.cn/post/6844903504276881422)
